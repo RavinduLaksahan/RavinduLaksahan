@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravindu Rathnagala</h1>
 <h3 align="center">Computer Science and software engineering undergraduate</h3>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **My Final Year Research**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **AI & ML**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **ravindu05.dev@gmail.com**
 
