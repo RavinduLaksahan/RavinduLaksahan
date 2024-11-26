@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravindu Rathnagala</h1>
-<h3 align="center">Computer Science and software engineering undergraduate</h3>
+<h3 align="center">Computer Science and software engineering Graduate</h3>
 
 - 🔭 I’m currently working on **A Full Stack Project**
 
